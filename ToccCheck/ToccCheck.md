@@ -1,5 +1,6 @@
 # TOCC 檢核程式
 
+版本：1.6
 作者：Michael Tsai
 
 Copyright (c) 2021 灃禾人力
@@ -12,3 +13,10 @@ Copyright (c) 2021 灃禾人力
 ![image](https://user-images.githubusercontent.com/605065/129508052-49cf6069-a4e7-4e1b-9c56-43819a6ab238.png)
 
 從 Windows 的程式集選單裡面也找得到一個名為「TOCC 檢核程式」的捷徑。
+
+# 版本歷史
+
+## 2021.8.17
+
+- 「尚未填寫 TOCC 名單」增加欄位：連續幾天沒填寫。
+- 「連續兩天未填寫名單」廢棄，改由「月結未填寫次數」取代。
